@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f4f6f8;
+  color: #000000;
+}
+
+header {
+  background-color: #009cc4;
+  color: white;
+  text-align: center;
+  padding: 30px 15px;
+}
+
+section {
+  padding: 20px 10px;
+  max-width: 900px;
+  margin: auto;
+}
+
+h2 {
+  color: #000000;
+  border-bottom: 2px solid #ddd;
+  padding-bottom: 5px;
+}
+
+.about p {
+  line-height: 1.2;
+}
+
+.skills ul {
+  list-style-type: square;
+  padding-left: 10px;
+}
+
+.contact p {
+  margin: 5px 0;
+}
+
+footer {
+  background-color: #000000;
+  color: white;
+  text-align: center;
+  padding: 0.9px;
+}
